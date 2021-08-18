@@ -1,6 +1,6 @@
 # CS330
-How do I approach designing software?
-
+How do I approach designing software? How do I approach developing programs?
+I believe it is important to approach designing software and developing programs while focusing on object-oriented programming. This relies on the classes and the modularization of code. Especially with this project, having code that I could use multiple times was imperative so I can deliver my project in a timely manner. With other porjects in the future, the approach will be similar to stay organized and save time. 
 
 What new design skills has your work on the project helped you to craft?
 Throughout this project, I was able to get an understanding on how to execute three-dimensional objects and make them mimic reality. Through the use of lighting, texture, and placement, I was able to bring my two dimensional image to life. I now know how to apply lighting and texture to an object. 
@@ -10,9 +10,6 @@ Through a lot of trial and error, I was able to create my project. I would say I
 
 How could tactics from your design approach be applied in future work?
 While I do not see myself being involved with graphic design or animation, the coding practice was definitely beneficial. After all of the practice, I have a better understanding of syntax and proper placement of certain functions.
-
-How do I approach developing programs?
-
 
 What new development strategies did you use while working on your 3D scene?
 I would say my development strategy involved a lot of sketching things out. I had a notebook that I would sketch my original image, the objects I was including in my scene, and then write any attributes that I needed. For example, I had a red vase in my image. I sketched the vase and wrote the shapes I had to combine, the size, color, position and texture. Then, while I would begin to code, I had a list of things I needed to check off. This helped me execute everything efficiently. 
